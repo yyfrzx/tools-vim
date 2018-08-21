@@ -1,0 +1,1 @@
+changes-0.14.vmb: call delete('/home/nifan/.vim/plugin/changesPlugin.vim')|call delete('/home/nifan/.vim/autoload/changes.vim')|call delete('/home/nifan/.vim/doc/ChangesPlugin.txt')

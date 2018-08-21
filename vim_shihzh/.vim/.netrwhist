@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/shihzh/work/gunzip/gunzip/device'
+let g:netrw_dirhist_2='/home/shihzh/work/ipc-gzip/common'
+let g:netrw_dirhist_3='/home/shihzh/work/gzip/gzip/device'
+let g:netrw_dirhist_4='/home/shihzh/work/java/jni/com'
+let g:netrw_dirhist_5='/home/shihzh/work/ipc-gzip/server/bin/gzip-v2/acl_ddr4_a10'
